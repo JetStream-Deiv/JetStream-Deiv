@@ -6,7 +6,7 @@
 
 <p>🙋🏻 About Me </p>
 
-- 🔭 I’m currently working as a **Tax Intern in a Big Four company**;
+- 🔭 At present, I'm working as a **Tax Intern in a Big Four company**;
 
 - 📚 I’m currently studying Análise e Desenvolvimento de Sistemas;
 
