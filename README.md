@@ -10,8 +10,6 @@
 
 - 📚 I’m currently studying Análise e Desenvolvimento de Sistemas;
 
-- 👨🏻‍💻 I'm looking for an opportunity as an IT intern;
-
 - 👾 In my free time, I enjoy anime and TV shows.
 
 <br/>
